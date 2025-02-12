@@ -18,6 +18,10 @@ public class SecurityConfig  {
 
     }
 
+    public void test(){
+        System.out.println("this is test");
+    }
+
 
 
 }
